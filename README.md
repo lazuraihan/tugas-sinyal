@@ -17,7 +17,8 @@ Python Script: [https://github.com/lazuraihan/tugas-sinyal/blob/main/convolution
 ![Screenshot (472)](https://github.com/lazuraihan/tugas-sinyal/assets/105598568/391646b5-92c1-4513-9ae5-83cf89e90775)
 
 C. Last Commit Logs
-![commit](https://github.com/lazuraihan/tugas-sinyal/assets/105598568/e01cc3d4-e788-47f8-a0c0-9f1bb721ec3f)
+![commit](https://github.com/lazuraihan/tugas-sinyal/assets/105598568/924bf13b-1eb7-4928-8549-b4163b654ef4)
+
 
 
 
