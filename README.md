@@ -10,6 +10,7 @@ A. IPhyton Console from Spyder Showing Name and NRP
 ![console](https://github.com/lazuraihan/tugas-sinyal/assets/105598568/f5b8c1bb-d6c3-40c1-bf33-7005713272bf)
 
 B. Result and Script on Spyder
+
 In this assignment, I create a 2D Convolution Algorithm with an example image (.jpg format) using Numpy and Matplotlib modules.
 
 Python Script: [https://github.com/lazuraihan/tugas-sinyal/blob/main/convolution.py](https://github.com/lazuraihan/tugas-sinyal/blob/main/convolution.py)
