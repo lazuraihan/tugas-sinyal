@@ -30,6 +30,10 @@ def convolve2D(image, kernel):
 
     return output
 
+#Identitas
+print("Nama: Lazuardi Raihan")
+print("NRP: 5009201006")
+
 # Define the mean kernel
 kernel = np.ones((3,3)) / 9
 
